@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-35,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-40,
+				-216
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-42,
+				-202
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-39,
+				-214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-219
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				-73
+			],
+			"anim": "turn",
+			"fps": 24,
+			"name": "turn",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mark1",
+	"position": [
+		-660,
+		-140
+	],
+	"healthicon": "mark",
+	"flip_x": true,
+	"healthbar_colors": [
+		174,
+		180,
+		191
+	],
+	"camera_position": [
+		-390,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

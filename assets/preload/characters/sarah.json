@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-56,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-60,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-58,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-62,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-40,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				40
+			],
+			"anim": "part 1",
+			"fps": 28,
+			"name": "thirty",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-53,
+				41
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "part 2",
+			"loop": false,
+			"name": "scum"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sarah",
+	"position": [
+		-1805,
+		-1320
+	],
+	"healthicon": "frenemy",
+	"flip_x": true,
+	"healthbar_colors": [
+		174,
+		180,
+		191
+	],
+	"camera_position": [
+		-170,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

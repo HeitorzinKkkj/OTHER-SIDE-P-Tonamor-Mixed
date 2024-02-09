@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-218
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-226
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				-219
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-218
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-41,
+				-219
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-33,
+				-121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "gun go shoot shoot",
+			"indices": [],
+			"name": "shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/markshoot",
+	"position": [
+		105,
+		-155
+	],
+	"healthicon": "markangry",
+	"flip_x": false,
+	"healthbar_colors": [
+		174,
+		180,
+		191
+	],
+	"camera_position": [
+		-150,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
