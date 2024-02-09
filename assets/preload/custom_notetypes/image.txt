@@ -1,0 +1,3 @@
+mandela image
+value1: Opacity
+value2: Duration
