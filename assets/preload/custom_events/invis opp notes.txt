@@ -1,0 +1,3 @@
+use this to make the enemies note invis
+
+made by daspig
